@@ -36,6 +36,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+# freebuff desktop app data
+.freebuff
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
